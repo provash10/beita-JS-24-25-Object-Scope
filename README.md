@@ -1,0 +1,1 @@
+# beita-JS-24-25-Object-Scope
